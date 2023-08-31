@@ -99,12 +99,12 @@ nav ul {
     transition: width 1s ease-in-out;
 }
 
-/* @media screen and (max-width: 800px)
+@media screen and (max-width: 800px)
 {
     .game-container{
         flex-wrap: wrap;
     }
-    .game-info{
+/*     .game-info{
         margin-top: 34px;
     }
     .game-info h1{
@@ -113,5 +113,5 @@ nav ul {
     .container{
         grid-template-rows: repeat(3, 20vw);
         grid-template-columns: repeat(3, 20vw);
-    }
-} */
+    } */
+}
